@@ -1,3 +1,5 @@
+/* ...............................Navbar */ 
+
 .navbar {
     padding: 0; 
 }
@@ -13,20 +15,49 @@ padding: 0;
 .navbar-font{
     font-size: 20px;
     font-family: 'Lora', serif;
-    
 }
 
-.image {
+/* ...............................About us */ 
+
+.about-us-image-container {
+
+    height: 560px;
+    background: url(../images/about-us-image.jpg) no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+}
+
+.about-us-text-container {
+
+
+}
+
+.about-us-text-col {
+    padding: 0;
+}
+
+.about-us-text-container h3 {
+    background-color: rgba(253, 208,35, 1);
+    font-family: 'Lora', serif;
     width: 100%;
-    max-height: 757px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.about-us-text-container p {
+    font-family: 'Lora', serif;
+}
+
+
+
+
 
 }
 
 .header-ribbon {
-    background-color: rgba(253, 208,35, 1);
-    text-transform: uppercase;
-    text-align: center;
-    font-family: 'Lora', serif;
+    
 
 }
 
