@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@600;700;800&display=swap');
+
+
+
 .full-height {
     height:100vh;
 }
@@ -63,4 +67,16 @@ background-size: 100% 100%;
 margin: 0;
 padding: 0;
 
+}
+
+.performances-header {
+    margin-top: 20vh;
+ 
+}
+
+.performances-header h2 {
+    font-family: 'Lora', serif;
+    color: rgba(253, 208,35, 1);
+    font-size: 35px;
+    font-weight: 600;
 }
