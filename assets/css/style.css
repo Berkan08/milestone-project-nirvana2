@@ -77,7 +77,7 @@ padding: 0;
 .performances-header h2 {
     font-family: 'Lora', serif;
     color: rgba(253, 208,35, 1);
-    font-size: 35px;
+    font-size: 40px;
     font-weight: 600;
 }
 
@@ -85,3 +85,12 @@ padding: 0;
     margin-top: 20vh;
 
 }
+
+.card-body {
+    font-family: 'Lora', serif;
+}
+
+.btn-primary {
+    color: rgba(253, 208,35, 1);
+    background-color: black;
+    border-color: rgba(253, 208,35, 1);
