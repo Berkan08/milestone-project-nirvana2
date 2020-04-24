@@ -118,5 +118,15 @@ padding: 0;
 .row-form {
     margin-top: 15vh;
     max-width: 75vh;
+}
 
+.form-bg-color {
+    background: rgba(0, 0, 0, 0.3);
+    padding: 30px;
+
+}
+
+.font-style-form {
+    font-family: 'Lora', serif;
+    color: white;
 }
