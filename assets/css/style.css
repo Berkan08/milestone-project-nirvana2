@@ -49,35 +49,24 @@ color: white;
 
 /* ...............................About us */ 
 
-.about-us-image-container {
+.about-us-image {
 
-    height: 560px;
-    background: url(../images/about-us-image.jpg) no-repeat center center fixed;
-    background-size: cover;
-    display: flex;
+    height: 50vh;
+    background: url(../images/about-us-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    
 }
 
-.about-us-text-container {
-
-
-}
-
-.about-us-text-col {
-    padding: 0;
-}
-
-.about-us-text-container h3 {
+.members-ribbon {
     background-color: rgba(253, 208,35, 1);
-    font-family: 'Lora', serif;
-    width: 100%;
-    height: 60px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+    height: 10vh;
 }
 
-.about-us-text-container p {
+.members-ribbon h3 {
     font-family: 'Lora', serif;
+    font-size: 30px;
+    
 }
 
 /* ...............................Performances */ 
