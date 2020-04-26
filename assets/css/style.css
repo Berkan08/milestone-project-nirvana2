@@ -139,6 +139,23 @@ padding: 0;
 
 /* ...............................Footer */
 
+.footer-bg {
+    background: rgba(0, 0, 0, 0.4);
+    margin-top: 5vh;
+}
+
 .footer-row {
     max-width: 50vh;
+}
+
+.footer-row i {
+font-size: 35px;
+color: rgba(253, 208,35, 1);
+
+}
+
+.copyright-text {
+    font-family: 'Lora', serif;
+    color: white;
+
 }
