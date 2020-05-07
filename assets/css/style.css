@@ -7,6 +7,15 @@
     min-height:100vh;
 }
 
+.contact-height {
+    height:85vh;
+}
+
+.footer-height {
+    height:15vh;
+}
+
+
 /* ...............................Navbar */ 
 
 .navbar {
@@ -163,8 +172,7 @@ padding: 0;
 /* ...............................Footer */
 
 .footer-bg {
-    background: rgba(0, 0, 0, 0.4);
-    margin-top: 4vh;
+    background-color: #000000;
 }
 
 .footer-row {
