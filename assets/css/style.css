@@ -83,8 +83,12 @@ padding: 0;
 
 }
 
+.overlay {
+    background-color:rgba(0,0,0,0.3);
+}
+
 .performances-header {
-    margin-top: 20vh;
+    margin-top: 15vh;
  
 }
 
@@ -96,7 +100,7 @@ padding: 0;
 }
 
 .performance-cards-row {
-    margin-top: 20vh;
+    margin-top: 15vh;
 
 }
 
