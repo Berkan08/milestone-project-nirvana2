@@ -17,7 +17,7 @@ As a Nirvana fan I want to find some media on the band. I go to the performances
 
 
 Wireframes
-There is a directory called wireframes in the project where there is a pdf-file.
+There is a directory called wireframes in the project where there is a pdf-file, the wireframes were created using Balsamiq.
 
 
 Features
@@ -29,10 +29,14 @@ There is also a footer with links to different social media.
 
 Technologies Used
 The languages used was html and css. Bootstrap was used to create the navbar, cards and the form section.
-Link to bootstrap https://getbootstrap.com/.
+Link to bootstrap https://getbootstrap.com/. 
+Balsamiq was used to create the wireframes.
 
 
+Testing
 Testing of the page was conducted to ensure all functions worked correctly. The two user stories above have been tested.
+This site was tested across multiple screen sizes on Chrome, the text and card-decks will properly align on every screen size.
+A navigation bar is shown all the time and will transform to an option bar on smaller phone screens.
 
 
 The photos used in this site were obtained from google images.
