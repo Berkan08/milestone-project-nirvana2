@@ -1,4 +1,4 @@
-Project Nirvana
+# Project Nirvana
 
 This project represents the fictional band Nirvanas homepage, the band no longer exists. 
 On the homepage there is information about the band, links to music videos from their diffent albums and a contact page where you can get in contact to book the band for shows.
