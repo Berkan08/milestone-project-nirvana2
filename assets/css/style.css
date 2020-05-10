@@ -1,8 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Lora:wght@600;700;800&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Girassol&display=swap');
 
-
-
 .full-height {
     min-height:100vh;
 }
@@ -15,8 +13,7 @@
     height:15vh;
 }
 
-
-/* ...............................Navbar */ 
+/* ...............................Navbar.................. */ 
 
 .navbar {
     padding: 0; 
@@ -29,7 +26,6 @@
     font-size: 40px;
     margin: 0 0 0 3vh;
 }
-
 
 .nav-item {
     font-size: 20px;
@@ -51,8 +47,7 @@
     color: white;
 }
 
-
-/* ...............................About us */ 
+/* ...............................About us...................... */ 
 
 .about-us-image {
     height: 100vh;
@@ -71,8 +66,7 @@
     color: rgba(253, 208,35, 1);
 }
 
-
-/* ...............................Performances */ 
+/* ...............................Performances....................... */ 
 
 .performances-bg-image {
     background: url(../images/performances-bg-image.jpg);
@@ -124,8 +118,7 @@
     border-color: rgba(253, 208,35, 1);
 }
 
-
-/* ...............................Contact */
+/* ...............................Contact......................... */
 
 .contact-bg-image {
     background: url(../images/bg-image-contactus.jpg);
@@ -137,8 +130,19 @@
 }
 
 .row-form {
-    margin-top: 15vh;
+    margin-top: 7vh;
     max-width: 75vh;
+}
+
+.contact-header {
+    margin-top: 18vh;
+}
+
+.contact-header h2 {
+    font-family: 'Lora', serif;
+    color: rgba(253, 208,35, 1);
+    font-size: 40px;
+    font-weight: 600;
 }
 
 .form-bg-color {
@@ -155,7 +159,7 @@
     background-color: rgba(0, 0, 0, 0);
 }
 
-/* ...............................Footer */
+/* ...............................Footer................ */
 
 .footer-bg {
     background-color: #000000;
