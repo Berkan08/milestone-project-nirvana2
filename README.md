@@ -1,9 +1,13 @@
 # Project Nirvana
+**Milestone project 1: User-Centric Frontend Development - Code Institute**
 
 This project represents the fictional band Nirvanas homepage, the band no longer exists. 
 On the homepage there is information about the band, links to music videos from their diffent albums and a contact page where you can get in contact to book the band for shows.
 The homepage is built with bootstrap components, including a navbar, jumbotron and cards and can be viewed on multiple screen sizes.
 It is user friendly and has a color theme and style that fits the brand.
+
+## Demo
+A live demo version can be found **[here](https://berkan08.github.io/milestone-project-nirvana2/)**
 
 
 UX
